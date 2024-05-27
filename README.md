@@ -28,3 +28,6 @@ First, make sure you have Python installed on your system. If not, you can downl
 Next, you will need to install some Python libraries. 
 You can do this using the following command in your terminal:
 to run the program, you just need to click on the script and it will automatically open the Command Prompt (CLI). Alternatively, you can use python3 script.py if you prefer. 
+
+
+![Screenshot 2024-05-27 041244](https://github.com/TorranceTech/Video-Splitter-and-Joiner/assets/170806445/626d765c-257a-4c5e-a6c7-becc5fe4a7d4)
